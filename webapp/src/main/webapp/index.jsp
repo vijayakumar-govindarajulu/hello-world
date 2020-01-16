@@ -1,5 +1,5 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
-<h3> You Rock Man!!!! </h3>
-<h1> You additionally Rock </h3>
+<html>
+<body>
+Hello v1. The time is <%= new java.util.Date().toString() %>.
+</body>
+</html>
